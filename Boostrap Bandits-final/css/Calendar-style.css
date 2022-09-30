@@ -1,0 +1,28 @@
+* {
+    margin:0;
+    padding:0;
+    font-family: 'Roboto', sans-serif;
+}
+.Event{
+    
+    background: linear-gradient(10deg,#6ac1c5,#bda5ff); 
+    
+}
+#calendar{
+    width: 100%;
+    position: absolute;
+    top:5;
+    left: 280px;
+    
+    transform: translate(-50%,-48%); 
+}
+.calendar-type{
+    width: 100%;
+    position:relative;
+    top:290px;
+    left:235px;
+    
+    
+
+    
+}
